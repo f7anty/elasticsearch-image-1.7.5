@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
  
     <modelVersion>4.0.0</modelVersion>
-	<groupId>org.elasticsearch</groupId>
-    <artifactId>elasticsearch-image-1.7.5</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
-
-	<name>elasticsearch-image-1.7.5</name>
-	<url>http://maven.apache.org</url>
+    <groupId>com.github.f7anty</groupId>
+    <artifactId>elasticsearch-image</artifactId>
+    <version>1.7.5-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <description>Image Plugin for ElasticSearch 1.7.5</description>
+    <name>elasticsearch-image</name>
+    <url>https://github.com/f7anty/elasticsearch-image-1.7.5</url>
 	
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
